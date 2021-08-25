@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// BIBT- erc20-token
+// BIBT-erc20-token
 pragma solidity ^0.8.2;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
