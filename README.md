@@ -1,4 +1,4 @@
-# BIBT-erc20-token
+# BIBTerc20xx
 BIBT wrapped Blockchain Investor Bearer Token (ERC20). Blockchain Investor - a global investor in crypto assets.
 
 Wrapped Blockchain Investor Bearer Token, Ticker "BIBT", Total Supply 1000.000.000 BIBT tokens, 18 Decimals, Contract BIBTtoken. Tokens allocation as follows: up to 140 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding, and 850 millions passive tokens for future issuing (capital increase om Blockchain Investor which is reflected in the new BIBT token distributed) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders. 
